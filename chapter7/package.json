@@ -1,0 +1,17 @@
+{
+  "name": "chapter7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "7-1.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "echo \"Start Test\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
