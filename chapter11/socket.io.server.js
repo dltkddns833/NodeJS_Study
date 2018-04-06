@@ -14,5 +14,7 @@ var server = http.createServer(function(request, response){
 // socket
 var io = socketio.listen(server);
 io.sockets.on('connection', function(socket){
-
+    socket.on('rint', function(data){
+        
+    })
 });
